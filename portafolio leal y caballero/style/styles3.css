@@ -1,0 +1,25 @@
+
+body {
+    background-color: black;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+}
+
+
+#B1 {
+    width:350px;
+    height:250px;
+    margin-left:295px;
+    margin-top: 170px;
+}
+
+
+#B2 {
+    width:350px;
+    height:250px;
+    margin-left: 50px;
+}

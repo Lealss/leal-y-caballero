@@ -1,0 +1,131 @@
+header {
+    background-color:darkgoldenrod;
+    text-align: center;
+    width:300px;
+    margin-left:500px;
+}
+
+body {
+    background-image:url(COLLAGE.jpg);
+    background-size:cover;
+    background-position: center;
+}
+
+#m1 {
+    background-color: lime;
+    margin-left:270px;
+    width:90px;
+}
+
+#t1 {
+    background-color: aqua;
+    margin-left: 90px;
+    width:470px;
+}
+
+
+#m2 {
+    background-color: lime;
+    margin-left:880px;
+    margin-top:-265px;
+    width:150px;
+}
+
+#t2 {
+    background-color: aqua;
+    margin-left: 720px;
+    width:470px;
+}
+
+
+#m3 {
+    background-color: lime;
+    margin-left:270px;
+    margin-top:50px;
+    width:90px;
+}
+
+#t3 {
+    background-color: aqua;
+    margin-left: 90px;
+    width:470px;
+    height:345px;
+}
+
+
+
+#m4 {
+    background-color: lime;
+    margin-left:900px;
+    margin-top:-407px;
+    width:55px;
+}
+
+#t4 {
+    background-color: aqua;
+    margin-left: 700px;
+    width:510px;
+}
+
+
+#m5 {
+    background-color: lime;
+    margin-left:250px;
+    width:140px;
+}
+
+#t5 {
+    background-color: aqua;
+    margin-left: 90px;
+    width:470px;
+}
+
+
+#m6 {
+    background-color: lime;
+    margin-left:880px;
+    margin-top:-153px;
+    width:115px;
+}
+
+#t6 {
+    background-color: aqua;
+    margin-left: 700px;
+    width:500px;
+}
+
+#m7 {
+    background-color: lime;
+    margin-left:270px;
+    width:110px;
+    font-size:30px;
+}
+
+#t7 {
+    background-color: aqua;
+    margin-left: 90px;
+    width:470px;
+    height:250px;
+}
+
+
+#m8 {
+    background-color: lime;
+    margin-left:880px;
+    margin-top:-315px;
+    width:145px;
+    font-size:30px;
+}
+
+#t8 {
+    background-color: aqua;
+    margin-left: 700px;
+    width:500px;
+}
+
+footer {
+    margin-top: 100px;
+    background-color: red;
+    text-align: center;
+    font-size: 40px;
+}
